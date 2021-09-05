@@ -2,10 +2,10 @@
 <!--
 **firasjaber/firasjaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hey friend 👋 ! my name is Firas and i am a Fullstack JS/TS Developer.
+### sup sup, my name is Firas and i enjoy making stuff
 
 - 🔭  I’m currently working on : Clients & Personal Side Projects ...
-- 🌱  I’m currently learning : GraphQL, TypeScript ...
+- 🌱  I’m currently learning : GraphQL, Computer Networking, Architecture/Scaling ...
 - 📫  How to reach me: Discord ( firrj#4628 ).
 
 
