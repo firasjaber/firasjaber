@@ -6,6 +6,6 @@
 
 - 🔭  I’m currently working on : Clients & Personal Side Projects ...
 - 🌱  I’m currently learning : GraphQL, Computer Networking, Architecture/Scaling ...
-- 📫  How to reach me: Discord ( firrj#4628 ).
+- 📫  Get in touch : Discord ( firrj#4628 ), email : contact@firrj.me, website: https://firrj.me 
 
 
