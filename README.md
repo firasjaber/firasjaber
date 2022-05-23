@@ -2,7 +2,7 @@
 <!--
 **firasjaber/firasjaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### sup sup, my name is Firas and i enjoy making stuff
+### sup sup, i am Firas and i enjoy making stuff
 
 - 🔭  I’m currently working at : [Incedo Services GmbH](https://incedo.de/) as Full-Stack Developer Intern, Also making some fun side projects
 - 🌱  I’m currently learning : Distributed Systems, Architecture/Scaling ...
